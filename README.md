@@ -4,7 +4,7 @@
 
 ### Installation
 ```
-$ git clone https://github.com/fafanords/BruteCrypt
+$ git clone https://github.com/nordszamora/BruteCrypt.git
 
 $ cd BruteCrypt
 
